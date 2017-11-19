@@ -24,27 +24,20 @@ h3 {
   background-image: url("../images/the-flatiron-building.png");
 }
 
-nav a {
+nav a, .btn-nav {
+  font-size: 18px;
   color: white;
 }
 
 .designed-in {
   background-image: url("../images/the-flatiron-building.png");
-}
-
-.designed-in h3 {
   color: white;
 }
 
+
 .footer {
-  background-color: dimgray
-}
-
-.footer p {
+  background-color: dimgray;
   font-size: 11px;
-  text-align:left;
-}
-
-.footer nav {
+  color: white;
   text-align: left;
 }
